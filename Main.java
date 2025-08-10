@@ -39,7 +39,7 @@ public class Main {
             String task=scan.nextLine();
             tdl.contains(task);}
         
-        
+        if(input==5){break;}
        }
         
         
